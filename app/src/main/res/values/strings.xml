@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LanguageSwitch</string>
+    <string name="hello_text">Привет, это мой текст на русском!</string>
+    <string name="lang_choose">Выберите язык:</string>
+    <string name="ok_btn">OK</string>
+    <string-array name="lang_array">
+        <item>Русский</item>
+        <item>Английский</item>
+    </string-array>
+
+</resources>
